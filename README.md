@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # Hi! I'm Christopher 
 ### Full Stack Developer | 2nd Year CS Student | Mobile Dev Specialist
 
@@ -58,8 +58,9 @@ Its main focus is providing our local sports-club with an app for users to make 
 </div>
 
 <div align="center">
-  <h3>🐍 My Contributions in Snake</h3>
-  <img src="https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake?github_user_name=Christopher-Blc&outputs=image&palette=github-dark" width="98%" />
+  <div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" />
+</div>
 </div>
 
 ---
