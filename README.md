@@ -9,7 +9,7 @@
 
 
 <div align="center">
-<img height="200" src="https://private-user-images.githubusercontent.com/116123535/339080286-8eae716d-b2e1-4cdb-872b-48d857f33b27.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzcyOTgyOTUsIm5iZiI6MTc3NzI5Nzk5NSwicGF0aCI6Ii8xMTYxMjM1MzUvMzM5MDgwMjg2LThlYWU3MTZkLWIyZTEtNGNkYi04NzJiLTQ4ZDg1N2YzM2IyNy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyN1QxMzUzMTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNzYyYzQyY2NhNWY0YmY2YzdhZGFkY2FiNTc4MzY4MzU5NDkzYWY0YmRlZDgwMWRmOTdiMzJjZDYyYjYyYWU1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZnaWYifQ.OPYdQ7wW3eLX_AuEhcIespyfTQG3fphc-p-fqJcFX8k" />
+<img height="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
 
 ---
@@ -45,17 +45,21 @@ Its main focus is providing our local sports-club with an app for users to make 
 </div>
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Christopher-Blc&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Blc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Christopher-Blc&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall Stats" width="48.5%" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher-Blc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="46.5%" height="220"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Christopher-Blc&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="710" />
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Christopher-Blc&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+</div>
 
-### 🐍 My Contributions in Snake
-![Snake animation](https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake?github_user_name=Christopher-Blc&outputs=image&palette=github-dark)
+<div align="center">
+  <h3>🐍 My Contributions in Snake</h3>
+  <img src="https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake?github_user_name=Christopher-Blc&outputs=image&palette=github-dark" width="98%" />
 </div>
 
 ---
